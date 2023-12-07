@@ -16,6 +16,8 @@ ports:
     onOpen: ignore
   - port: 9600
     onOpen: ignore
+  - port: 8080
+    onOpen: open-browser
 
 vscode:
   extensions:
