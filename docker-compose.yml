@@ -21,7 +21,7 @@ services:
     extra_hosts:
       - jahia:127.0.0.1
     volumes:
-      - ./:/var/jahia/sources
+      - .:/var/jahia/sources/my-module
     networks:
       - jahia
 networks:
