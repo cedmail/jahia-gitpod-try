@@ -1,0 +1,13 @@
+{
+  "label": {
+    "settings": {
+      "title": "My First Module setting"
+    },
+    "action": {
+      "title": "My First Module - How to extend the ui ?"
+    },
+    "appsAccordion": {
+      "title": "My First Module"
+    }
+  }
+}

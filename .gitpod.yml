@@ -2,6 +2,7 @@ tasks:
   - init: |
       docker-compose pull
   - command: |
+      mvn clean install
       docker-compose up
 
 ports:
